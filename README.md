@@ -1,6 +1,6 @@
 # cpp-STL
 
-#Containers
-#Iterators
-#Algorithms
-#Functors
+Containers
+Iterators
+Algorithms
+Functors
