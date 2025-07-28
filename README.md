@@ -1,9 +1,9 @@
 # cpp-STL
 
-1.Containers
+1. Containers
 
-2.Iterators
+2. Iterators
 
-3.Algorithms
+3. Algorithms
 
-4.Functors
+4. Functors
