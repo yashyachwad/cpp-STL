@@ -7,3 +7,8 @@ The Standard Template Library (STL) is a collection of pre-written C++ classes a
 3. Iterators - Objects to traverse containers
 4. Functors - Function objects for customization
 
+1. Containers
+🔹Sequence Containers
+Vector
+Dynamic array that can grow and shrink during runtime.
+![Uploading image.png…]()
