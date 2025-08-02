@@ -11,4 +11,3 @@ The Standard Template Library (STL) is a collection of pre-written C++ classes a
 🔹Sequence Containers
 Vector
 Dynamic array that can grow and shrink during runtime.
-![Uploading image.png…]()
